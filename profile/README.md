@@ -11,9 +11,3 @@ brew install hckr
 ```console
 pip install hckr
 ```
-## Supporting the project ⭐
-
-If you feel awesome and want to support us in a small way, please consider starring and sharing the repo! This helps us get known and grow the community. 🙏
-
-<img src="https://raw.githubusercontent.com/lusaxweb/vuesax/master/public/github-vuesax-star.gif" alt="vuesax-star" />
-
